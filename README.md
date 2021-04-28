@@ -1,7 +1,7 @@
 ### 做个白日梦
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikyoluka&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikyoluka&layout=compact&theme=flag-india)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikyoluka&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikyoluka&show_icons=true&theme=flag-india)
 <!--
 **sanshiliuxiao/sanshiliuxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
