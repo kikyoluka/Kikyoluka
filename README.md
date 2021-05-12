@@ -1,4 +1,4 @@
-### 做个白日梦😴
+### Hi there,I'm Kikyo👏
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikyoluka&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true&count_private=true)
 
 - 🔭 I’m currently working on d3.js and vue development.
