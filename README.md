@@ -1,5 +1,7 @@
 ### Hi there, I'm Kikyo👏
 
-<p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=kikyoluka&hide_border=true&show_icons=true" alt="kikyoluka's github stats"></a>
-</p>
+### GitHub Stats
+<div aline=senter>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kikyoluka&show_icons=true&theme=ambient_gradient">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kikyoluka&layout=compact" height=195>
+</div>
